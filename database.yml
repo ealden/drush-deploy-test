@@ -1,0 +1,6 @@
+databases:
+  default:
+    driver: postgresql
+    database: drupal
+    username: drupal
+    password: drupal
